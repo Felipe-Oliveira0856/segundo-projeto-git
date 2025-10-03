@@ -1,2 +1,3 @@
 # segundo-projeto-git
-segundo projeto com github com terminal, para prática
+
+Meu segundo projeto com github com terminal, para praticar o uso de Git e Github
